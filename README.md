@@ -28,11 +28,6 @@ Me apasiona construir sistemas escalables y eficientes. Mi trayectoria se centra
 
 ---
 
-## 📈 Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=280709&show_icons=true&theme=radical)
-
----
-
 
 ## 📫 Contacto
 - **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/javier-gonzalez-martinez-176815157)
