@@ -1,6 +1,6 @@
 # ¡Hola! Soy Javier González 👋
 
-### Ingeniero de Software | Tech Lead | Especialista en Automatización
+### Ingeniero de Software
 
 Me apasiona construir sistemas escalables y eficientes. Mi trayectoria se centra en el desarrollo de soluciones críticas para sectores de alto impacto, combinando el desarrollo de software moderno con la integración de hardware.
 
